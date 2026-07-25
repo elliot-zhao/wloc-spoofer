@@ -9,7 +9,7 @@ export function getPageHtml() {
 <meta name="apple-mobile-web-app-title" content="WLOC">
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
 <link rel="icon" href="https://raw.githubusercontent.com/elliot-zhao/wloc-spoofer/refs/heads/main/public/favicon.ico" />
-<link rel="apple-touch-icon" href="https://raw.githubusercontent.com/elliot-zhao/wloc-spoofer/refs/heads/main/public/favicon.ico" />
+<link rel="apple-touch-icon" href="https://raw.githubusercontent.com/elliot-zhao/wloc-spoofer/refs/heads/main/public/wloc.jpg" />
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"><\/script>
 <style>
 :root { --blue:#007aff; --green:#34c759; --red:#ff3b30; --gray:#8e8e93; --bg:#f2f2f7; --orange:#ff9500; }
